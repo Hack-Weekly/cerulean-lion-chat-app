@@ -1,1 +1,1 @@
-# cerulean-lion-chat-app
+# ChatHub App | Cerulian Lion
